@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Sitemap: https://www.bitsathy.ac.in/sitemap.xml
+Disallow: /admissions/
+Disallow: /careers/
+Disallow: /academics/facultydetails/
+Disallow: /academics/facultydetails/MTE4OTYzNzI1NDQwMTA=
